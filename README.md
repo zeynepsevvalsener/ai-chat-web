@@ -1,4 +1,4 @@
-Thought for a couple of seconds
+
 
 ```markdown
 # Canlı Destek Chat Uygulaması (Lokal Çalışma)
