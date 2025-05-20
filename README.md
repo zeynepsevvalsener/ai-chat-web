@@ -4,6 +4,7 @@
 # Canlı Destek Chat Uygulaması (Lokal Çalışma)
 
 Bu proje, React tabanlı bir frontend ile Firebase ve bir Node.js API Gateway kullanarak LLM destekli canlı sohbeti **sadece yerel** olarak çalıştırmanızı sağlar.
+Youtube video link : https://www.youtube.com/watch?v=PCmLa9xhEq0
 
 ---
 
